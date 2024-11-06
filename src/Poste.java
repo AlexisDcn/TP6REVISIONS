@@ -1,4 +1,4 @@
-public class Poste {
+public abstract class Poste {
     private int numPoste;
     private Carburant carburant;
     private double quantiteCarburant;

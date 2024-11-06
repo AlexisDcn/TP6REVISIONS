@@ -11,7 +11,10 @@ public class Main {
 
         Achat achat1 = new Achat(1, Carburant.GAZOLE, 20.0, 2.89);
 
-        System.out.println(achat1);
+        // System.out.println(achat1);
 
+        Citerne citerne1 = new Citerne(10000.0);
+
+        System.out.println(citerne1);
     }
 }
